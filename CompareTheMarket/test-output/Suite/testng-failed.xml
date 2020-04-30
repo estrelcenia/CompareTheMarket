@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]">
+  <test parallel="none" name="Test(failed)">
+    <classes>
+      <class name="com.comparethemarket.testscripts.TC_001_ElectricityTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="TC_001_ElectricityTestMethod"/>
+          <include name="tearDowm"/>
+        </methods>
+      </class> <!-- com.comparethemarket.testscripts.TC_001_ElectricityTest -->
+      <class name="com.comparethemarket.testscripts.TC_002_GasTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDowm"/>
+        </methods>
+      </class> <!-- com.comparethemarket.testscripts.TC_002_GasTest -->
+      <class name="com.comparethemarket.testscripts.TC_003_GasAndElectricityTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="tearDowm"/>
+        </methods>
+      </class> <!-- com.comparethemarket.testscripts.TC_003_GasAndElectricityTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
