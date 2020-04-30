@@ -1,9 +1,9 @@
 # CompareTheMarket
 
-				Automation Setup and Execution Process Instruction
+				AUTOMATION SETUP AND EXECUTION PROCESS INSTRUCTION
 
 
-********IN ORDER TO RUN TEST SCRIPT, WE SHOULD HAVE FOLLOWING GIVEN SOFTWARE IN SYSTEM
+In order to run test script, we should have following given softwaree in system.
 
 
 NOTE: For installation and setup process refer to the 'Automation_Setup_Guidelines' document.
